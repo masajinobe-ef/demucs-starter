@@ -26,6 +26,7 @@ poetry install
 Для запуска изоляции расположите ваш .mp3 файл в папку demucs-starter и запустите скрипт:
 
 ```sh
+poetry shell
 .\start.ps1
 ```
 
