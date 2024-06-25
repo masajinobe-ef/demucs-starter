@@ -51,4 +51,5 @@ Get-ChildItem *.mp3 | foreach { demucs -d cpu -n htdemucs_ft --two-stems=vocals 
 Форматы:
 
 - .wav
+- .flac
 - .mp3
